@@ -1,4 +1,6 @@
 # Netpractice - My Networking Configuration
+## Link : https://www.youtube.com/watch?v=5GFmCtI8kBQ
+![Netpractice](https://github.com/user-attachments/assets/0df2ba2b-c56d-4c57-837c-8d1e00d37675)
 <img width="1558" height="823" alt="Netpractice" src="https://github.com/user-attachments/assets/0b21fbfd-867b-495d-8a35-335520f55e3e" />
 
 *My network configuration and subnetting project*
