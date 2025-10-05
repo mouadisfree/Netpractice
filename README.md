@@ -1,6 +1,5 @@
 # Netpractice - My Networking Configuration
-
-
+<img width="1558" height="823" alt="Netpractice" src="https://github.com/user-attachments/assets/0b21fbfd-867b-495d-8a35-335520f55e3e" />
 
 *My network configuration and subnetting project*
 ---
