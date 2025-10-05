@@ -1,7 +1,6 @@
 # Netpractice - My Networking Configuration
-## Link : https://yt.openinapp.co/cp6bc
-![Netpractice](https://github.com/user-attachments/assets/0df2ba2b-c56d-4c57-837c-8d1e00d37675)
-<img width="1558" height="823" alt="Netpractice" src="https://github.com/user-attachments/assets/0b21fbfd-867b-495d-8a35-335520f55e3e" />
+## Link : https://yt.openinapp.co/cp6bc 👈
+<img width="1280" height="720" alt="4213" src="https://github.com/user-attachments/assets/59ffe565-6e63-4ab8-b962-e8b8a0971d57" />
 
 *My network configuration and subnetting project*
 ---
