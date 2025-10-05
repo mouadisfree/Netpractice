@@ -52,7 +52,7 @@ To practice networking, you need:
 ---
 
 ## Who made this
-Made by **mkatfi** as a student at **1337 School** (part of the 42 coding schools).
+Made by **mouadisfree** as a student at **1337 School** (part of the 42 coding schools).
 
 ---
 
